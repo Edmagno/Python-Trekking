@@ -1,0 +1,3 @@
+#Não sobe os arquivos com final .ipynb_checkpoints
+
+.ipynb_checkpoints
